@@ -1,0 +1,6 @@
+(load "lazy.lisp")
+(load "utils.lisp")
+(load "game-utils.lisp")
+(load "cards.lisp")
+(load "game-core.lisp")
+(load "test.lisp")
